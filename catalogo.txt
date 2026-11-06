@@ -1,2 +1,3 @@
 catalogo de componentes
 catalogo de componentes
+precios y stock
